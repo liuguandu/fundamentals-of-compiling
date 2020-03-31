@@ -1,0 +1,4 @@
+if data+9.2>0x3.f then	//这是个注释
+	data=data+01.4;	/*这也是个注释*/
+else
+	data=data-01.2;
